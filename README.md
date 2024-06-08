@@ -33,6 +33,6 @@ Este é um aplicativo descomplicado de Lista de Tarefas desenvolvido com HTML, C
 
 ## Autor
 
-Este aplicativo de Lista de Tarefas foi criado por José Walter De Oliveira Junior. Entre em contato através do e-mail "samuellimadoamaral.prof@gmail.com" para dúvidas ou feedback.
+Este aplicativo de Lista de Tarefas foi criado por Samuel Lima do Amaral. Entre em contato através do e-mail "samuellimadoamaral.prof@gmail.com" para dúvidas ou feedback.
 
 Sinta-se à vontade para usar, modificar e distribuir este aplicativo de Lista de Tarefas de acordo com suas necessidades. Feliz organização de tarefas! 🚀
